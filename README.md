@@ -9,10 +9,10 @@ type as follows in powershell instnace
 & './akwarium powershell v2.ps1' 
 
 # Functions
--animated ground
--fish with stats, eating, breeding
--growing and expanding foliage
--resize window support
+-animated ground  
+-fish with stats, eating, breeding  
+-growing and expanding foliage  
+-resize window support  
 
 # TO-DO
 -add multiplayer support thru local network in office so ppl can play with office pals
